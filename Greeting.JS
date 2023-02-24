@@ -1,4 +1,4 @@
-<script>
-	alert ("Date and Time")
+
+console.log ("Date and Time");
 	
-</script>
+
