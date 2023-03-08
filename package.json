@@ -1,0 +1,15 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Javascript Projects",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik B S",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "readline-sync": "^1.4.10"
+  }
+}
